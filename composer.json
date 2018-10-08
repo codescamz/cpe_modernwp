@@ -1,0 +1,17 @@
+{
+    "name": "codescamz/cpe_modernwp",
+    "description": "refactory custom post tax for vitamina producciones",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/codescamz/cpe_modernwp",
+    "authors": [
+      {
+        "name": "custom post",
+        "homepage": "http://moomoo.agency"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.0"
+    }
+  }
+  
